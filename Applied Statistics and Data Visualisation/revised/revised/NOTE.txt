@@ -1,0 +1,5 @@
+Combined data was imported as data in R
+
+MISSING DATA was used to do data exploration
+
+every time you run lasso regression you get diffrent values

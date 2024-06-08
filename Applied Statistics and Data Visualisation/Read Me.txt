@@ -1,0 +1,14 @@
+Dashboard created using power bi
+The dashboard contains:
+line chart
+bar chart
+summary table created using DAX
+map showing contries and the choosen indicator
+choosing an indicator, is aided by the table created
+
+R Script; contains:
+Excel data load 
+descriptive statistics
+explanatory data analysis
+data preparation 
+model building such as multiple linear regression, ridge regression, ARIMA model
